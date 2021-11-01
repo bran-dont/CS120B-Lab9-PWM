@@ -12,7 +12,7 @@ When scaling up, the system should not scale above a C.
  *	I acknowledge all content contained herein, excluding template or example
  *	code, is my own original work.
  *
- *	Demo Link: https://youtu.be/jlGBbgNTWlc
+ *	Demo Link: https://www.youtube.com/watch?v=DmnixlmbU2o
  */
 #include <avr/io.h>
 #include "timer.h"
